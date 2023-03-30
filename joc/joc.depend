@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1678479224 source:c:\users\polie\onedrive\desktop\poo\joc\main.cpp
+	<iostream>
+	"Spanzura.h"
+	"Cuvant.h"
+	"Joc.h"
+
+1678215080 source:c:\users\polie\onedrive\desktop\poo\joc\src\spanzura.cpp
+	"Spanzura.h"
+	<iostream>
+
+1678184627 c:\users\polie\onedrive\desktop\poo\joc\include\spanzura.h
+	<iostream>
+
+1678191308 c:\users\polie\onedrive\desktop\poo\joc\include\cuvant.h
+
+1678191308 source:c:\users\polie\onedrive\desktop\poo\joc\src\cuvant.cpp
+	"Cuvant.h"
+	<iostream>
+	<string.h>
+
+1678192096 source:c:\users\polie\onedrive\desktop\poo\joc\src\joc.cpp
+	"Joc.h"
+	"Spanzura.h"
+	"Cuvant.h"
+	<iostream>
+
+1678191844 c:\users\polie\onedrive\desktop\poo\joc\include\joc.h
+	"Spanzura.h"
+	"Cuvant.h"
+
