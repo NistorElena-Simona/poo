@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1683222329 source:c:\users\polie\onedrive\desktop\an 2\poo\proiectpoo\main.cpp
+	<iostream>
+	"JocHandler.h"
+
+1683217182 c:\users\polie\onedrive\desktop\an 2\poo\proiectpoo\include\jochandler.h
+	"Nivel.h"
+	"MeniuNivele.h"
+
+1684420525 c:\users\polie\onedrive\desktop\an 2\poo\proiectpoo\include\nivel.h
+	<string>
+	<vector>
+	<algorithm>
+
+1683368019 c:\users\polie\onedrive\desktop\an 2\poo\proiectpoo\include\meniunivele.h
+
+1684421130 source:c:\users\polie\onedrive\desktop\an 2\poo\proiectpoo\src\nivel.cpp
+	"Nivel.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"console_text.h"
+
+1685341228 source:c:\users\polie\onedrive\desktop\an 2\poo\proiectpoo\src\jochandler.cpp
+	"JocHandler.h"
+	<iostream>
+	<fstream>
+
+1684421231 source:c:\users\polie\onedrive\desktop\an 2\poo\proiectpoo\src\meniunivele.cpp
+	"MeniuNivele.h"
+	<iostream>
+	"console_text.h"
+	<windows.h>
+	<unistd.h>
+
+1683216185 c:\users\polie\onedrive\desktop\an 2\poo\proiectpoo\include\console_text.h
+
