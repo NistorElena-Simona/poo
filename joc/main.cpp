@@ -1,13 +1,17 @@
 #include <iostream>
-#include "Spanzura.h"
-#include "Cuvant.h"
-#include "Joc.h"
+#include "JocHandler.h"
+
 using namespace std;
+
+// TODO:
+// Fa meniul sa arate mai frumos (culori?, emojis ASCII, etc), la fel si pt spanzuratare
+
 
 int main()
 {
-    system("color de");
-    Joc z= Joc();
-    z.start_joc();
+
+    JocHandler joc = JocHandler();
+
+    joc.Start();
     return 0;
 }
